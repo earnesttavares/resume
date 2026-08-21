@@ -1,16 +1,16 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+# Home Lab
+- project: Cyber Range Buildout: Hands-on Defensive Environment
+  role: Home Lab Architect & Security Practitioner 
+  duration: 2026 &mdash; Present
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: Built a personal cybersecurity home lab using virtualized environments from an old laptop to practice real-world defensive skills. Configured multiple Linux and Windows systems, set up secure networking, and deployed tools such as Snort, Wireshark, and OpenVPN. Used the lab to simulate attacks, analyze traffic, test firewall rules, and strengthen understanding of enterprise-style security controls. 
 
 # Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+- project: SOC Detection Pipeline: Alerts, Logs & Forensics 
+  role: Threat Detection Analyst
+  duration: 2026 &mdash; Present
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: Performed hands-on threat detection exercises using packet captures, logs, and memory dumps. Analyzed suspicious network activity with Wireshark and RITA, tuned Snort IDS rules to reduce false positives, and used Volatility 3 to investigate abnormal processes and persistence mechanisms. Documented findings in structured reports modeled after SOC workflows.
