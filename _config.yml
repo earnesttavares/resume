@@ -9,7 +9,7 @@ sass:
   style: compressed
 
 # Resume settings
-resume_avatar:                  "/images/new_avatar.png"  
+resume_avatar:                  "true"  
 resume_name:                    "Earnest Tavares"
 resume_title:                   "Cybersecurity Analyst"
 
