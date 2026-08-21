@@ -1,12 +1,24 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+# Network Defense
+- skill: Network Defense
+  description: TCP/IP, packet analysis, firewalls, IDPS, secure remote access, segmentation
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+# Security Operations
+- skill: Security Operations
+  description: Threat detection, log analysis, incident response workflows, system hardening
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+# Tools & Platforms
+- skill: Tools & Platforms
+  description: Wireshark, Splunk, Snort, Nmap, OWASP ZAP, Burp Suite, Volatility 3, RITA, OpenVPN, OpenSSL
+
+# Systems & Scripting
+  -skill: Systems & Scripting
+  description: Linux (Ubuntu, Kali), Windows OS, CLI, Bash, Powershell, Python
+
+# Web & Application Security
+  -skill: Web & Application Security
+  description: OWASP concepts, vulnerability scanning, encryption fundamentals 
+
+# Frameworks & Standards
+  -skill: Frameworks & Standards
+  description: NIST CSF, NIST SP 800-53, ISO 27001, CIS Controls, GDPR, CCPA
