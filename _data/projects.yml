@@ -2,14 +2,14 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # Home Lab
-- project: Cyber Range Buildout: Hands-on Defensive Environment
+- project: Cyber Range Buildout
   role: Home Lab Architect & Security Practitioner 
   duration: 2026 &mdash; Present
   # url: "#"
   description: Built a personal cybersecurity home lab using virtualized environments from an old laptop to practice real-world defensive skills. Configured multiple Linux and Windows systems, set up secure networking, and deployed tools such as Snort, Wireshark, and OpenVPN. Used the lab to simulate attacks, analyze traffic, test firewall rules, and strengthen understanding of enterprise-style security controls. 
 
 # Springfield Community Outreach Group
-- project: SOC Detection Pipeline: Alerts, Logs & Forensics 
+- project: SOC Detection Pipeline 
   role: Threat Detection Analyst
   duration: 2026 &mdash; Present
   # url: "#"
