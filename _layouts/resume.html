@@ -56,8 +56,8 @@
           <h2>Certifications</h2>
         </header>
 
-        {% for job in site.data.certifications %}
-        <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
+        {% for cert in site.data.certifications %}
+        <div class="resume-item" itemscope itemprop="CertIn" itemtype="http://schema.org/Organization">
           <h3 class="resume-item-title" itemprop="name">{{ cert.name }}</h3>
           <h4 class="resume-item-details" itemprop="description">{{ cert.issuer }} &bull; {{ cert.year }}</h4>
           <p class="resume-item-copy">{{ job.summary }}</p>
