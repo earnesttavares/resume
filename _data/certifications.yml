@@ -1,12 +1,12 @@
 # Jobs
 # VP of Global Communications
-- name: CompTIA Security+ SYO-701 
+- name: CompTIA Security+ (SYO-701) 
   issuer: CompTIA
   year: 2026
   description: Industry-recognized baseline cybersecurity certification validating security fundamentals, threat detection, risk management, and incident response readiness.
 
 # Director of Digital Stratgy
-- name: Adobe Analytics Business Practitioner AD0-212
+- name: Adobe Analytics Business Practitioner (AD0-212)
   issuer: Adobe
   year:  2025
   description: Validates experience with data accuracy, privacy compliance, and behavioral trend analysis, complementing SOC analysis and risk assessment.
