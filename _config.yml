@@ -23,7 +23,7 @@ resume_contact_address:         "Orange County, CA"
 resume_header_contact_info:     "Orange County, CA • e29611276@gmail.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>Emerging Security Analyst building practical skills through hands‑on labs, defensive tooling, and continuous learning. Dedicated to growing as a dependable analyst who supports team operations through clear communication, structured workflows, and thoughtful security decisions. Seeking opportunities to grow in real‑world security environments.</p>"
+resume_header_intro: "<p>Emerging security analyst developing practical defensive skills through hands‑on labs, detection workflows, and continuous learning. Developing into a trusted analyst who enhances security operations through disciplined workflows, clear communication, and sound judgment. Seeking opportunities to grow within professional security environments.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -33,7 +33,6 @@ resume_looking_for_work:        "yes"
 
 # Decide which sections to use
 # comment out to hide
-resume_section_experience:      false
 resume_section_certifications:  true
 resume_section_education:       true
 resume_section_projects:        true
