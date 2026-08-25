@@ -57,10 +57,10 @@
         </header>
 
         {% for cert in site.data.certifications %}
-        <div class="resume-item" itemscope itemprop="CertIn" itemtype="http://schema.org/Organization">
-          <h3 class="resume-item-title" itemprop="name">{{ cert.name }}</h3>
-          <h4 class="resume-item-details" itemprop="description">{{ cert.issuer }} &bull; {{ cert.year }}</h4>
-          <p class="resume-item-copy">{{ job.summary }}</p>
+        <div class="resume-item"> 
+          <h3 class="resume-item-title">{{ cert.name }}</h3>
+          <h4 class="resume-item-details">{{ cert.issuer }} &bull; {{ cert.year }}</h4>
+          <p class="resume-item-copy">{{ cert.description }}</p>
         </div><!-- end of resume-item -->
         {% endfor %}
 
