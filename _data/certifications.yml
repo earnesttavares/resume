@@ -1,19 +1,19 @@
 # Jobs
 # VP of Global Communications
-- company: CompTIA Security+ SYO-701 
-  position: CompTIA
-  duration: 2026
-  summary: Industry-recognized baseline cybersecurity certification validating security fundamentals, threat detection, risk management, and incident response readiness.
+- name: CompTIA Security+ SYO-701 
+  issuer: CompTIA
+  year: 2026
+  description: Industry-recognized baseline cybersecurity certification validating security fundamentals, threat detection, risk management, and incident response readiness.
 
 # Director of Digital Stratgy
-- company: Adobe Analytics Business Practitioner AD0-212
-  position: Adobe
-  duration:  2025
-  summary: Validates experience with data accuracy, privacy compliance, and behavioral trend analysis, complementing SOC analysis and risk assessment.
+- name: Adobe Analytics Business Practitioner AD0-212
+  issuer: Adobe
+  year:  2025
+  description: Validates experience with data accuracy, privacy compliance, and behavioral trend analysis, complementing SOC analysis and risk assessment.
 
 
 # Communications Coordinator
-- company: Google Analytics GA4
-  position: Google
-  duration:   2024
-  summary: Demonstrates proficiency in data integrity, event tracking, and privacy-compliant data handling, supporting log analysis and security monitoring workflows.
+- name: Google Analytics GA4
+  issuer: Google
+  year:   2024
+  description: Demonstrates proficiency in data integrity, event tracking, and privacy-compliant data handling, supporting log analysis and security monitoring workflows.
