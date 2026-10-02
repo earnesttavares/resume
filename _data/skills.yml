@@ -1,24 +1,13 @@
 # Skills
 # Network Defense
-- skill: Network Defense
-  description: TCP/IP, packet analysis, firewalls, IDPS, secure remote access, segmentation
+- skill: Tools
+  description: Wireshark, Snort IDS, Volatility 3, VirtualBox, Git/GitHub, Linux (Ubuntu)
 
 # Security Operations
-- skill: Security Operations
-  description: Threat detection, log analysis, incident response workflows, system hardening
+- skill: Security Skills
+  description: Network Traffic Analysis, Threat Detection, Incident Response, Log Analysis, IDS Rule Tuning, Memory Forensics
 
 # Tools & Platforms
-- skill: Tools & Platforms
-  description: Wireshark, Splunk, Snort, Nmap, OWASP ZAP, Burp Suite, Volatility 3, RITA, OpenVPN, OpenSSL
+- skill: Frameworks
+  description: NIST CSF, NIST SP 800-53, CIS Controls, ISO 27001 
 
-# Systems & Scripting
-  -skill: Systems & Scripting
-  description: Linux (Ubuntu, Kali), Windows OS, CLI, Bash, Powershell, Python
-
-# Web & Application Security
-  -skill: Web & Application Security
-  description: OWASP concepts, vulnerability scanning, encryption fundamentals 
-
-# Frameworks & Standards
-  -skill: Frameworks & Standards
-  description: NIST CSF, NIST SP 800-53, ISO 27001, CIS Controls, GDPR, CCPA
