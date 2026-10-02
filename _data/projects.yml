@@ -2,15 +2,15 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # Home Lab
-- project: Cybersecurity Home Lab Environment 
-  role: Cyber Lab Designer & Analyst  
+- project: Enterprise Security Home Lab 
+  role: Security Lab Engineer  
   duration: 2026 &mdash; Present
   # url: "#"
-  description: Designed and deployed a virtualized security lab to practice defensive skills, simulate attacks, and analyze system behavior across multiple operating systems. Implemented security controls, configured monitoring tools, and documented structured workflows to build practical experience in threat detection and analysis. 
+  description: Designed and maintained a virtualized cybersecurity home lab using Oracle VirtualBox, VMWare Workstation, Kali Linux, Ubuntu, and Metasploitable. Configured isolated networks, deployed Snort IDS, and created realistic attack and defense scenarios for hands on security testing and learning. 
 
 # Springfield Community Outreach Group
-- project: Virtual SOC Training Environment 
+- project: Threat Detection & Analysis Lab 
   role: Threat Detection Analyst
   duration: 2026 &mdash; Present
   # url: "#"
-  description: Conducted hands‑on threat detection using packet captures, logs, and memory dumps. Investigated suspicious activity with Wireshark and RITA, refined Snort IDS rules, and used Volatility 3 to analyze abnormal processes and persistence. Produced structured reports modeled after SOC workflows.
+  description: Investigated simulated security incidents using Wireshark, Volatility 3, and Snort by analyzing packet captures, memory artifacts, and IDS alerts to identify malicious behavior, persistence mechanisms, and unauthorized processes.  
