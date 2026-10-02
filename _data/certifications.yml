@@ -1,19 +1,23 @@
 # Jobs
 # VP of Global Communications
+- name: Attacking & Defending AWS - A Cloud Breach from Start to Finish
+  issuer: TryHackMe
+  year: 2026
+  description: Completed a hands-on virtual workshop simulating a cloud security investigation focused on identifying and analyzing an AWS environment compromise. Practiced incident investigation, cloud security concepts, log analysis, and threat detection within a simulated breach scenario.
+
+# Director of Digital Stratgy
 - name: CompTIA Security+ (SYO-701) 
   issuer: CompTIA
   year: 2026
-  description: Industry-recognized baseline cybersecurity certification validating security fundamentals, threat detection, risk management, and incident response readiness.
+  description: Industry-recognized cybersecurity certification validating knowledge of security operations, threat detection, risk management, incident response, and security best practices.
 
-# Director of Digital Stratgy
+# Communications Coordinator
 - name: Adobe Analytics Business Practitioner (AD0-212)
   issuer: Adobe
   year:  2025
-  description: Validates experience with data accuracy, privacy compliance, and behavioral trend analysis, complementing SOC analysis and risk assessment.
+  description: Validates expertise in data analysis, reporting accuracy, privacy compliance, and trend identification, strengthening analytical skills applicable to security monitoring and risk assessment.
 
-
-# Communications Coordinator
 - name: Google Analytics GA4
-  issuer: Google
-  year:   2024
-  description: Demonstrates proficiency in data integrity, event tracking, and privacy-compliant data handling, supporting log analysis and security monitoring workflows.
+  issuer: Google 
+  year: 2024
+  description: Demonstrates proficiency in event tracking, data integrity, and privacy focused data analysis, reinforcing investigative and analytical skills used in security operations. 
