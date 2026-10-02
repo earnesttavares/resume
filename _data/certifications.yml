@@ -1,9 +1,9 @@
 # Jobs
 # VP of Global Communications
-- name: Attacking & Defending AWS - A Cloud Breach from Start to Finish
+- name: Attacking & Defending AWS - A Cloud Breach
   issuer: TryHackMe
   year: 2026
-  description: Completed a hands-on virtual workshop simulating a cloud security investigation focused on identifying and analyzing an AWS environment compromise. Practiced incident investigation, cloud security concepts, log analysis, and threat detection within a simulated breach scenario.
+  description: Completed a hands-on virtual workshop simulating a cloud security investigation focused on identifying and analyzing a compromised AWS environment. Practiced incident investigation, cloud security concepts, log analysis, and threat detection within a simulated breach scenario.
 
 # Director of Digital Stratgy
 - name: CompTIA Security+ (SYO-701) 
